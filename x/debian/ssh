@@ -1,0 +1,4 @@
+# x-cmd:FROM             x/openssh
+# x-cmd:ENTRYPOINT       [ "ssh" ]
+
+
