@@ -1,0 +1,2 @@
+# x-cmd.from    x/openssh
+# x.cmd.entrypoint   ssh
