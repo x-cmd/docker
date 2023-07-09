@@ -8,6 +8,9 @@ apk add --no-cache openssh
 # x docker run x/openssh ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -o LogLevel=ERROR -o BatchMode=yes -o ConnectTimeout=5 -p 22 root@localhost
 # x docker run x/debian/openssh ssh
 
+# xd %ssh
+# xd %debian/ssh
+# xd ubu
 
 # x docker run x/ssh -V
 # x docker run x/ssh -V
