@@ -1,5 +1,5 @@
-# x-cmd:FROM            alpine:latest
-# x-cmd:ENTRYPOINT      [ "ssh" ]
+# x-cmd.FROM:           alpine:latest
+# x-cmd.ENTRYPOINT:     [ "ssh" ]
 
 apk add --no-cache openssh
 
